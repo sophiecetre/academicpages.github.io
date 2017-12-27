@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Core Economics (course coordinator) ###
-First year course in Economics based on <a href='http://www.core-econ.org/' style="color:blue">the textbook CORE</a>.
+First year course in Economics based on <a href='http://www.core-econ.org/' style="color:blue">the textbook CORE</a>.  
 Professors: <b> Yann Algan and Guillaume Plantin </b>  
 <i> Fall 2017 and Spring 2017, Sciences Po Paris. </i>
 
