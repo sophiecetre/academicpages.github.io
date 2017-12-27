@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href='https://sophiecetre.github.io//files/cv-december-2017.pdf'>You can download my CV here</a>
+You can download my CV <a href='https://sophiecetre.github.io//files/cv-december-2017.pdf' style="color:blue">here</a>
