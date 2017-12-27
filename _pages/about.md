@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "I am a PhD student in Economics at Sciences Po Paris under the supervision of Yann Algan and Claudia Senik"
 author_profile: true
 redirect_from: 
   - /about/
