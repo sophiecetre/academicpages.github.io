@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Research
+permalink: /research/
+author_profile: true
+---
 
 ### Happy People Have Children: Choice and Self-selection into Parenthood
 
