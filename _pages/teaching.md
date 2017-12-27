@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 ### Core Economics (course coordinator)
-First year course in Economics based on an innovative textbook, 
-
+First year course in Economics based on an innovative textbook //
 Fall 2017 and Spring 2016, <i>Sciences Po Paris </i>
 
 ### Analysis and Evaluation of Public policy (teaching assistant)
