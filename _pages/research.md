@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
 
 # Publications
 ### Happy People Have Children: Choice and Self-selection into Parenthood</b> 
