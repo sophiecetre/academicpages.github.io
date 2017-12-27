@@ -15,3 +15,8 @@ I am a PhD student in Economics at Sciences Po Paris under the supervision of Ya
 ### Research interests
 Economics of Higher Education, Natural Language processing, Experimental Economics
 
+### Contact
+Email: sophie.cetre@sciencespo.fr
+28 rue des Saints Pères
+75007 PARIS
+
