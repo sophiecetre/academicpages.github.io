@@ -9,7 +9,7 @@ author_profile: true
 
 with Andrew Clark and Claudia Senik, <i>European Journal of Population</i>, 2016
 
-# Working papers and work in progress
+## Working papers and work in progress
 ### A Choice Experiment on the Elicitation of Preferences over Income Distributions 
 
 with Max Lobeck, Claudia Senik and Thierry Verdier, <i>Draft available upon request</i>
