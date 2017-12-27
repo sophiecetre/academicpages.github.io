@@ -1,2 +1,4 @@
-
-href=""><span style="color: #333333;"><span style="font-size: medium;">You can download my resume here.</span></span></a>
+--- 
+title: "My CV"
+paperurl: "cv-december-2017.pdf"
+--- 
