@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Publications
-### Happy People Have Children: Choice and Self-selection into Parenthood</b> 
+### Happy People Have Children: Choice and Self-selection into Parenthood
 
 with Andrew Clark and Claudia Senik, <i>European Journal of Population</i>, 2016
 
