@@ -11,12 +11,12 @@ Professors: <b> Yann Algan and Guillaume Plantin </b>
 <i> Fall 2017 and Spring 2017, Sciences Po Paris. </i>
 
 ### Analysis and Evaluation of Public policy (teaching assistant)
-Graduate course in econometrics applied to the evaluation of public policies using Stata (master in Public Policy).         
+Graduate course in econometrics applied to the evaluation of public policies using Stata (master in Public Policy), taught in French         
 Professor: <b> Bruno Cautrès  </b>  
 <i> Fall 2017 and Fall 2016, Sciences Po Paris. </i>
 
 ### Introductory Macroeconomics (teaching assistant)
-First year course in Macroeconomics   
+First year course in Macroeconomics, taught in English  
 Professor: <b>  Nicolas Coeurdacier </b>   
 <i> Spring 2017, Sciences Po Paris (Reims campus). </i>
 
