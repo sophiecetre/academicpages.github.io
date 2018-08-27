@@ -21,8 +21,10 @@ Unanimity only breaks once subjects' positions within the income distribution ar
 known ex-ante. However, even then, 75% subjects prefer Pareto-dominant distributions. This
 suggests that effciency motives are of primary importance, more so than the origin of inequality.</i>
 
-<b>Gender Differences in College Students Career Aspirations</b>
+<b>Students' Higher Educational choices</b>
 with Ghazala Azmat, Anne Boring and Roberto Galbiati
 
 <b>Principal's Distributive Preferences and the Incentivization of Agents</b>
 with Max Lobeck
+
+<b>Side effects of incentives: how do MPs react to public assessments of their activities?</b>
