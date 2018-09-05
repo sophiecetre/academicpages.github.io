@@ -6,12 +6,12 @@ author_profile: true
 ---
 <h1 style="font-size:150%;">Publications</h1>
 
-<b><a href='https://sophiecetre.github.io//files/2016 Happy people have children.pdf' style="color:rgb(57, 100, 160);" >Happy People Have Children: Choice and Self-selection into Parenthood</a></b>
+<u><b><a href='https://sophiecetre.github.io//files/2016 Happy people have children.pdf' style="color:rgb(57, 100, 160);" >Happy People Have Children: Choice and Self-selection into Parenthood</a></b></u>
 with Andrew Clark and Claudia Senik, <i>European Journal of Population</i>, 2016
 
 <h1 style="font-size:150%;">Working papers and work in progress</h1>
 
-<b><a href='https://sophiecetre.github.io//files/In search of unanimously preferred income distributions.pdf' style="color:rgb(57, 100, 160);" >In Search of Unanimously Preferred Income Distributions. Evidence from a Choice Experiment</a></b>
+<u><b><a href='https://sophiecetre.github.io//files/In search of unanimously preferred income distributions.pdf' style="color:rgb(57, 100, 160);" >In Search of Unanimously Preferred Income Distributions. Evidence from a Choice Experiment</a></b></u>
 with Max Lobeck, Claudia Senik and Thierry Verdier. <i>Submitted</i>
 
 <p style="font-size:80%;"><i> Using a choice-experiment in the lab, we look at preferences over pairs of income distributions
