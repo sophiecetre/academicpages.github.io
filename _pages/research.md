@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<b>Happy People Have Children: Choice and Self-selection into Parenthood</b>
+<b><a href='https://sophiecetre.github.io//files/2016 Happy people have children.pdf'>Happy People Have Children: Choice and Self-selection into Parenthood</a></b>
 with Andrew Clark and Claudia Senik, <i>European Journal of Population</i>, 2016
 
 # Working papers and work in progress
