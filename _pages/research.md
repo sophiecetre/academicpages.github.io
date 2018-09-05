@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-<b><a href='https://sophiecetre.github.io//files/2016 Happy people have children.pdf' style="color:blue" >Happy People Have Children: Choice and Self-selection into Parenthood</a></b>
+<b><a href='https://sophiecetre.github.io//files/2016 Happy people have children.pdf' style="color:DodgerBlue" >Happy People Have Children: Choice and Self-selection into Parenthood</a></b>
 with Andrew Clark and Claudia Senik, <i>European Journal of Population</i>, 2016
 
 # Working papers and work in progress
-<b><a href='https://sophiecetre.github.io//files/In search of unanimously preferred income distributions.pdf' style="color:blue" >In Search of Unanimously Preferred Income Distributions. Evidence from a Choice Experiment</a></b>
+<b><a href='https://sophiecetre.github.io//files/In search of unanimously preferred income distributions.pdf' style="color:DodgerBlue" >In Search of Unanimously Preferred Income Distributions. Evidence from a Choice Experiment</a></b>
 with Max Lobeck, Claudia Senik and Thierry Verdier. <i>Submitted, draft available upon request</i>
 
 <i> Using a choice-experiment in the lab, we look at preferences over pairs of income distributions
