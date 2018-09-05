@@ -11,7 +11,7 @@ with Andrew Clark and Claudia Senik, <i>European Journal of Population</i>, 2016
 
 <h1 style="font-size:150%;">Working papers and work in progress</h1>
 
-<b><a href='https://sophiecetre.github.io//files/In search of unanimously preferred income distributions.pdf' style="color:rgb(57, 100, 160) >In Search of Unanimously Preferred Income Distributions. Evidence from a Choice Experiment</a></b>
+<b><a href='https://sophiecetre.github.io//files/In search of unanimously preferred income distributions.pdf' style="color:rgb(57, 100, 160);" >In Search of Unanimously Preferred Income Distributions. Evidence from a Choice Experiment</a></b>
 with Max Lobeck, Claudia Senik and Thierry Verdier. <i>Submitted</i>
 
 <p style="font-size:80%;"><i> Using a choice-experiment in the lab, we look at preferences over pairs of income distributions
