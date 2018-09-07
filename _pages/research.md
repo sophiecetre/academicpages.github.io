@@ -6,7 +6,7 @@ author_profile: true
 ---
 <h1 style="font-size:150%;">Publications</h1>
 
-<u><b><a href='https://sophiecetre.github.io//files/2016 Happy people have children.pdf' style="color:rgb(57, 100, 160);" >Happy People Have Children: Choice and Self-selection into Parenthood</a></b></u>
+<u><b><a href='https://link.springer.com/article/10.1007/s10680-016-9389-x' style="color:rgb(57, 100, 160);" >Happy People Have Children: Choice and Self-selection into Parenthood</a></b></u>
 with Andrew Clark and Claudia Senik, <i>European Journal of Population</i>, 2016
 
 <h1 style="font-size:150%;">Working papers and work in progress</h1>
