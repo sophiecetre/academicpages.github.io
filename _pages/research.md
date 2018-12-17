@@ -29,4 +29,4 @@ with Ghazala Azmat, Anne Boring and Roberto Galbiati
 <b>Principal's Distributive Preferences and the Incentivization of Agents</b>
 with Max Lobeck
 
-<b>Side effects of incentives: how do MPs react to public assessments of their activities?</b>
+<b>The Influence of Lobbies on French Politics</b>
