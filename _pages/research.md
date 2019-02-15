@@ -29,4 +29,5 @@ with Ghazala Azmat, Anne Boring and Roberto Galbiati
 <b>Principal's Distributive Preferences and the Incentivization of Agents</b>
 with Max Lobeck
 
-<b>The Influence of Lobbies on French Politics</b>
+<b>Optimizing the hiring process: a field experiment on job ads</b> 
+with Max Lobeck
