@@ -29,5 +29,5 @@ with Ghazala Azmat, Anne Boring and Roberto Galbiati
 <b>Principal's Distributive Preferences and the Incentivization of Agents</b>
 with Max Lobeck
 
-<b>Optimizing the hiring process: a field experiment on job ads</b> 
+<b>Optimizing the Hiring Process: a Field Experiment on Job Ads</b> 
 with Max Lobeck
