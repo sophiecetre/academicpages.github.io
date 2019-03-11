@@ -13,7 +13,7 @@ redirect_from:
 I am a PhD student in Economics at Sciences Po Paris under the supervision of Yann Algan and Claudia Senik. 
 
 ### Research interests
-I work on personnel economics and the economics of education using both textual analysis and experimental tools.
+I work on personnel economics and the economics of education using both text data and experimental tools.
 
 ### Contact
 Email: sophie.cetre@sciencespo.fr
