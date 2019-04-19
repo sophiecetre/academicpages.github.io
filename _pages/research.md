@@ -12,7 +12,7 @@ with Andrew Clark and Claudia Senik, <i>European Journal of Population</i>, 2016
 <h1 style="font-size:150%;">Working papers and work in progress</h1>
 
 <u><b>Preferences over Wage Distribution: Evidence from a Choice Experiment</b></u>
-with Max Lobeck, Claudia Senik and Thierry Verdier. <i>Submitted</i>
+with Max Lobeck, Claudia Senik and Thierry Verdier. <i>R&R Journal of Economic Psychology</i>
 
 <p style="font-size:80%;"><i> Using a choice-experiment in the lab, we assess the relative importance of different attitudes to income inequality. We elicit subjects' preferences over pairs of pay-off distributions within small groups, in a firm-like setting. We find that distributions that satisfy the Pareto-dominance criterion are capable of attracting unanimous suffrage: all subjects prefer larger inequality provided it makes everyone weakly better off. This is true, no matter whether income distribution is based on merit or luck. Unanimity only breaks once subjects' positions within the income distribution are fixed and known ex-ante. However, even then, 75% of subjects prefer Pareto-dominant distributions. Nonetheless, 25% of subjects engage into money burning at the top in order to reduce inequality, even when it does not make anyone better off. </i></p>
 
