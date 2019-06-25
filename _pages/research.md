@@ -25,3 +25,6 @@ with Ghazala Azmat, Anne Boring and Roberto Galbiati
 
 <b>Optimizing the Hiring Process: a Field Experiment on Job Ads</b> 
 with Max Lobeck
+
+<b> Ethnic in-group favoritism within country: evidence from online trust games in the US and Germany </b> (first author)
+with Yann Algan, Gianluca Grimalda, Fabrice Murtin, Louis Putterman, Ulrich Schmidt, Vincent Siegerink
