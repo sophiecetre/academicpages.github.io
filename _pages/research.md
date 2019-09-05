@@ -19,8 +19,9 @@ parents after the age of 30 and who have higher income. We also provide evidence
 of a positive selection into parenthood, whereby happier individuals are more likely
 to have children.</i></p>
 
-<u><b>Preferences over Income Distribution: Evidence from a Choice Experiment</b></u>
-with Max Lobeck, Claudia Senik and Thierry Verdier. Accepted in <i>Journal of Economic Psychology</i>
+
+<u><b><a href='https://www.sciencedirect.com/science/article/abs/pii/S0167487019301084' style="color:rgb(57, 100, 160);" >Preferences over Income Distribution: Evidence from a Choice Experiment</b></u>
+with Max Lobeck, Claudia Senik and Thierry Verdier, <i>Journal of Economic Psychology</i>
 
 <p style="font-size:80%;"><i> Using a choice experiment in the lab, we assess the relative importance of different attitudes to income inequality. We elicit subjects' preferences regarding pairs of payoff distributions within
 small groups, in a firm-like setting. We find that distributions that satisfy the Pareto-dominance
