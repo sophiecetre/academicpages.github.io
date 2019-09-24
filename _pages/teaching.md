@@ -7,8 +7,8 @@ author_profile: true
 
 ### Analysis and Evaluation of Public policy (teaching assistant)
 Graduate course in econometrics applied to the evaluation of public policies using Stata (master in Public Policy), taught in French and English         
-<i> Fall 2017 and Fall 2016 (advanced level), with Professor: <b> Bruno Cautrès </b>, Sciences Po Paris. </i>
-<i> Fall 2019 (advanced level), with Professor: <b> Romain Lachat </b>, Sciences Po Paris. </i>
+<i> Fall 2017 and Fall 2016 (advanced level), with Professor: <b> Bruno Cautrès </b>, Sciences Po Paris. </i> \\
+<i> Fall 2019 (advanced level), with Professor: <b> Romain Lachat </b>, Sciences Po Paris. </i> \\
 <i> Fall 2019 (beginner level), with Professor: <b> Roberto Galbiati </b>, Sciences Po Paris. </i>
 
 ### Core Economics (course coordinator) ###
