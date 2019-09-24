@@ -41,9 +41,13 @@ payoffs remains unaffected, 20% of subjects are willing to pay for a lower degre
 <b>Principal's Distributive Preferences and the Incentivization of Agents</b>
 with Max Lobeck
 <p style="font-size:80%;"><i>  While recent advances in the literature has explored the role of workers' social preferences, far less is know about the importance of managers' preference in workplace interactions. Using a lab experiment and a Principal-Agent setting, we ask managers to choose between two piece-rate wage contracts for two workers that are heterogeneous in ability. Choices are designed to elicit managers preferences regarding output-maximizing contracts, redistributive contracts, and merit contracts. To isolate normative preferences we vary the incentives that managers face. At the extensive margin, managers are randomly allocated into a Stakeholder group (income is proportional to output), or a Spectator group (fixed income). At the intensive margin, we vary the size of the tradeoff between contracts. We find that managers do hold distributive preferences, which constitutes one additional explanation for wage compression within firms. Nearly all Spectators care to some extent about the distributive consequences of their decisions by trading-off a higher output to reduce inequality across workers. About 40% of Stakeholders are willing to give up on income to compress wages, but they are sensitive to stakes and are less incline to favor equality when they have a lot to loose. </i></p>
- 
-<b>Students' Higher Educational choices</b>
+
+<b> Ethnic Diversity, Income Inequality and the Trust Crisis:
+Evidence from Online Trust games in the US and
+Germany </b> (first author)
+with Yann Algan, Gianluca Grimalda, Fabrice Murtin, Louis Putterman, Ulrich Schmidt, Vincent Siegerink
+<p style="font-size:80%;"><i> We study the impact of ethnic diversity and income inequality in online trust games played by two large representative samples of the US and Germany. We show that although there is evidence of a negative ethnic out-group bias in both countries, German subjects discriminate more along ethnic lines than US participants and discriminatory patterns are very different in each country. Out-group bias is selective in Germany but not in the US. Ethnic out-group discrimination is mostly taste-based rather than statistical in both countries, and most low trustworthiness stereotypes are inaccurate. Matching subjects to rich second movers dramatically decreases transfers, especially among bottom 80\% first movers. Income information largely alleviates ethnic discrimination, but rooted Germans and African-American first movers keep favoring their own kind even if the second mover is rich. Nevertheless, income inequality becomes a stronger determinant of low transfers than ethnic diversity for rooted Germans first movers. </i></p>
+
+<b>Students' Higher Educational Choices</b>
 with Ghazala Azmat, Anne Boring and Roberto Galbiati
 
-<b> Ethnic in-group favoritism within country: evidence from online trust games in the US and Germany </b> (first author)
-with Yann Algan, Gianluca Grimalda, Fabrice Murtin, Louis Putterman, Ulrich Schmidt, Vincent Siegerink
