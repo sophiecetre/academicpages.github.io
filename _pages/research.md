@@ -6,20 +6,6 @@ author_profile: true
 ---
 <h1 style="font-size:150%;">Publications</h1>
 
-<u><b><a href='https://link.springer.com/article/10.1007/s10680-016-9389-x' style="color:rgb(57, 100, 160);" >Happy People Have Children: Choice and Self-selection into Parenthood</a></b></u>
-with Andrew Clark and Claudia Senik, <i>European Journal of Population</i>, 2016
-
-<p style="font-size:80%;"><i> There is mixed evidence in the existing literature on whether children are
-associated with greater subjective well-being, with the correlation depending on
-which countries and populations are considered. We here provide a systematic
-analysis of this question based on three different datasets: two cross-national and
-one national panel. We show that the association between children and subjective
-well-being is positive only in developed countries, and for those who become
-parents after the age of 30 and who have higher income. We also provide evidence
-of a positive selection into parenthood, whereby happier individuals are more likely
-to have children.</i></p>
-
-
 <u><b><a href='https://www.sciencedirect.com/science/article/abs/pii/S0167487019301084' style="color:rgb(57, 100, 160);" >Preferences over Income Distribution: Evidence from a Choice Experiment</a></b></u>
 with Max Lobeck, Claudia Senik and Thierry Verdier, <i>Journal of Economic Psychology</i>, 2019
 
@@ -33,6 +19,19 @@ subjects engage in money burning at the top in order to reduce inequality, even 
 make anyone better off. A majority of subjects embrace a more equal distribution if their own
 income or overall efficiency is not at stake. When their own income is at stake and the sum of
 payoffs remains unaffected, 20% of subjects are willing to pay for a lower degree of inequality.</i></p>
+
+<u><b><a href='https://link.springer.com/article/10.1007/s10680-016-9389-x' style="color:rgb(57, 100, 160);" >Happy People Have Children: Choice and Self-selection into Parenthood</a></b></u>
+with Andrew Clark and Claudia Senik, <i>European Journal of Population</i>, 2016
+
+<p style="font-size:80%;"><i> There is mixed evidence in the existing literature on whether children are
+associated with greater subjective well-being, with the correlation depending on
+which countries and populations are considered. We here provide a systematic
+analysis of this question based on three different datasets: two cross-national and
+one national panel. We show that the association between children and subjective
+well-being is positive only in developed countries, and for those who become
+parents after the age of 30 and who have higher income. We also provide evidence
+of a positive selection into parenthood, whereby happier individuals are more likely
+to have children.</i></p>
 
 
 <h1 style="font-size:150%;">Working papers and work in progress</h1>
