@@ -15,6 +15,8 @@ I am a PhD student in Economics at Sciences Po Paris under the supervision of Ya
 ### Research interests
 I work on distributive preferences using experimental tools and a personnel economics perspective. I also have a strong interest in the economics of higher education and textual analysis methods.
 
+I participate to the <a href='https://www.oecd.org/sdd/trustlab.htm' style="color:blue">Trustlab network</a>, an OECD initiative aiming at studying trust, political opinions and social preferences in several countries.
+
 ### Contact
 Email: sophie.cetre@sciencespo.fr
 
