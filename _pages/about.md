@@ -13,7 +13,7 @@ redirect_from:
 I am a PhD student in Economics at Sciences Po Paris under the supervision of Yann Algan and Claudia Senik. 
 
 ### Research interests
-I work on distributive preferences using experimental tools and a personnel economics perspective. I also have a strong interest in the economics of higher education and textual analysis methods.
+I am specialized in behavioral economics. My doctoral thesis deals with the origins of wage inequality focusing both on educational sorting and employers’ distributive preferences. 
 
 I participate to the <a href='https://www.oecd.org/sdd/trustlab.htm' style="color:blue">Trustlab network</a>, an OECD initiative aiming at studying trust, political opinions and social preferences in several countries.
 
