@@ -16,7 +16,7 @@ I am specialized in behavioral economics and applied microeconomics. My doctoral
 
 I participate to the <a href='https://www.oecd.org/sdd/trustlab.htm' style="color:blue">Trustlab network</a>, an OECD initiative aiming at studying trust, political opinions and social preferences in several countries.
 
-I am now a researcher at the economics laboratory of the IRSN (Institut de Radioprotection et de Sûreté Nucléaire).
+I am now a researcher at the economics laboratory of the <a href='https://www.irsn.fr/FR/Pages/Home.aspx'  style="color:blue">IRSN</a> (Institut de Radioprotection et de Sûreté Nucléaire).
 
 ### Contact
 Email: sophie.cetre@sciencespo.fr
