@@ -19,8 +19,7 @@ I participate to the <a href='https://www.oecd.org/sdd/trustlab.htm' style="colo
 I am now a researcher at the economics laboratory of the <a href='https://www.irsn.fr/FR/Pages/Home.aspx'  style="color:blue">IRSN</a> (Institut de Radioprotection et de Sûreté Nucléaire).
 
 ### Contact
-Email: sophie.cetre@sciencespo.fr
+sophie.cetre@sciencespo.fr
+sophie.cetre@irsn.fr
 
-28 rue des Saints Pères   
-75007 PARIS
 
