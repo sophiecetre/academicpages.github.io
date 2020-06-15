@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PhD student in Economics at Sciences Po under the supervision of Yann Algan and Claudia Senik. 
+I am a PhD candidate in Economics at Sciences Po under the supervision of Yann Algan and Claudia Senik. 
 
 I am specialized in behavioral economics and applied microeconomics. My doctoral thesis deals with the determinants of wage inequality focusing on distributive preference at the workplace, fairness concerns, educational choices and discrimination. 
 
