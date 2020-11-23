@@ -1,3 +1,16 @@
+---
+permalink: /
+title: "PhD in Economics" 
+excerpt: 
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% include base_path %}
+
+
 I hold a PhD in Economics from Sciences Po, under the supervision of Yann Algan and Claudia Senik. 
 
 My fields of specialization are behavioral economics and applied microeconomics. My research deals with the determinants of wage inequality focusing on distributive preference at the workplace, fairness concerns, educational choices and discrimination. 
