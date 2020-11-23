@@ -39,9 +39,11 @@ to have children.</i></p>
 <h1 style="font-size:150%;">Working papers and work in progress</h1>
 
 
-<b>Principal's Distributive Preferences and the Incentivization of Agents</b> 
-with Max Lobeck, <i> Draft coming soon </i>
-<p style="font-size:80%;"><i>  Are principals' distributive preferences affecting the allocation of incentives within firms? We document a robust relationship between French employers' fairness preferences and the incentive contracts they choose for their workers. To establish causality, we run a Principal-Agent lab experiment in a firm-like setting. Principals must choose piece-rate wage contracts for two workers that differ in terms of ability. Workers have to choose an effort level that is not contractible upon. Principals are either paid proportional to the output produced (Stakeholder treatment) or paid a fixed wage (Spectator treatment). We study how principals trade-off incentive concerns (motivating workers to maximize output) and their own normative distributive preferences. We find that, despite the firm-like setting and the moral hazard situation, principals do hold egalitarian concerns. But they are sensitive to both extensive and intensive margin incentives. We characterize the heterogeneity in distributive preferences by positing a utility function that incorporates other-regarding preferences of the principal and we estimate it using a finite mixture model. We use these estimates to make counterfactual analyses and show that principals' egalitarian preferences gain in efficiency when workers hold relative income concerns. </i></p>
+<u><b><a href='https://sophiecetre.github.io//Principals_v10.pdf' style="color:rgb(57, 100, 160);" > Principal's Distributive Preferences and the Incentivization of Agents </a></b></u>
+with Max Lobeck
+<p style="font-size:80%;"><i>  Do principals' distributive preferences affect the allocation of incentives within firms? We document a robust relationship between French employers' fairness preferences and the incentive contracts they choose for their workers. To establish causality, we run a Principal-Agent lab experiment
+in a firm-like setting. Principals must choose piece rate wage contracts for two workers that differ in terms of ability. Workers have to choose an effort level that is non-contractible. Principals are either paid in proportion to the output produced (Stakeholder treatment) or paid a fixed wage (Spectator treatment). We study how principals make trade-offs between incentive concerns (motivating workers to maximize output) and their own normative distributive preferences. We find that, despite the firm-like setting and the moral hazard situation, principals do hold egalitarian concerns, but they are sensitive to both extensive and intensive margin incentives. We characterize the heterogeneity in distributive preferences by positing a utility function that incorporates the principal's other-regarding preferences and we estimate it using a finite mixture model. We use these estimates to make counterfactual analyses and show that
+principals' egalitarian preferences gain in efficiency when workers hold relative income concerns. </i></p>
 
 
 
@@ -56,4 +58,4 @@ with Ghazala Azmat, Anne Boring and Roberto Galbiati
 
 <h1 style="font-size:150%;">Doctoral dissertation</h1>
 
-Link to the full text of my doctoral dissertation <u><b><a href='https://sophiecetre.github.io//MAIN.pdf' style="color:rgb(57, 100, 160);" > here  </a></b></u> , 
+Link to the full text of my doctoral dissertation <u><b><a href='https://sophiecetre.github.io//MAIN.pdf' style="color:rgb(57, 100, 160);" > here  </a></b></u> 
