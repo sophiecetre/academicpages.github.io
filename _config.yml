@@ -2,7 +2,7 @@
 locale                   : "en-US"
 title                    : "Sophie Cetre"
 title_separator          : "-"
-description              : &description "PhD student in Economics at Sciences Po Paris"
+description              : &description "PhD in Economics"
 url                      : https://sophiecetre.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
