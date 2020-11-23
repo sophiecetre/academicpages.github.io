@@ -34,6 +34,8 @@ of a positive selection into parenthood, whereby happier individuals are more li
 to have children.</i></p>
 
 
+
+
 <h1 style="font-size:150%;">Working papers and work in progress</h1>
 
 
@@ -48,4 +50,7 @@ with the following members of the Trustlab project: Yann Algan, Gianluca Grimald
 <b>Tastes, Grades and Instructors: How do College Students Update their Field of Study
 Choices? </b>
 with Ghazala Azmat, Anne Boring and Roberto Galbiati
+
+
+<h1 style="font-size:150%;">Doctoral dissertation</h1>
 
